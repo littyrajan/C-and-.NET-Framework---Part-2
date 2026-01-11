@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.exe
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.deps.json
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.dll
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\ref\CallingMethodsApp.dll
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\bin\Debug\net5.0\CallingMethodsApp.pdb
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.dll
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\ref\CallingMethodsApp.dll
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.pdb
+D:\AOL\TACN22E1\Assignment\CallingMethodsApp\obj\Debug\net5.0\CallingMethodsApp.genruntimeconfig.cache
