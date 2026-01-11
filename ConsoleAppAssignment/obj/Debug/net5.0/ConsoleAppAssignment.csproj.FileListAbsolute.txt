@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.exe
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.deps.json
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ref\ConsoleAppAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\bin\Debug\net5.0\ConsoleAppAssignment.pdb
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ref\ConsoleAppAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.pdb
+D:\AOL\TACN22E1\ArrayAssignment\ConsoleAppAssignment\obj\Debug\net5.0\ConsoleAppAssignment.genruntimeconfig.cache
