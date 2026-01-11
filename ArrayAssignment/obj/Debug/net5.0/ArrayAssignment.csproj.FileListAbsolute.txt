@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.exe
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.deps.json
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ref\ArrayAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.pdb
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ref\ArrayAssignment.dll
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.pdb
+D:\AOL\TACN22E1\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.genruntimeconfig.cache
