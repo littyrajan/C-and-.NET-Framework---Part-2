@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.exe
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.deps.json
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.dll
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\ref\StringsIntegersAssignmnent.dll
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\bin\Debug\net5.0\StringsIntegersAssignmnent.pdb
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.dll
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\ref\StringsIntegersAssignmnent.dll
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.pdb
+D:\AOL\TACN22E1\Assignment\StringsIntegersAssignmnent\obj\Debug\net5.0\StringsIntegersAssignmnent.genruntimeconfig.cache
