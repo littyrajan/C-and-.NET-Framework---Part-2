@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.exe
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.deps.json
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.dll
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\ref\MainMethodAssignment.dll
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\bin\Debug\net5.0\MainMethodAssignment.pdb
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.dll
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\ref\MainMethodAssignment.dll
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.pdb
+D:\AOL\TACN22E1\Assignment\MainMethodAssignment\obj\Debug\net5.0\MainMethodAssignment.genruntimeconfig.cache
