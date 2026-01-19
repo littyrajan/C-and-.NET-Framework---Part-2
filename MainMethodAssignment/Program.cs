@@ -4,22 +4,16 @@ class Program
 {
     static void Main()
     {
-        // Create object of OverloadedMath
-        OverloadedMath mathObj = new OverloadedMath();
+        // Instantiate (create an object of) the MathOperations class
+        MathOperations mathObj = new MathOperations();
 
-        // Call method with integer
-        int intResult = mathObj.Calculate(15);
-        Console.WriteLine($"Integer input 15 + 10 = {intResult}");
+        // Call the method by passing values in normal order
+        mathObj.ProcessNumbers(10, 5);
 
-        // Call method with decimal
-        int decimalResult = mathObj.Calculate(7.5m);
-        Console.WriteLine($"Decimal input 7.5 * 2 = {decimalResult}");
+        // Call the method again using named parameters
+        mathObj.ProcessNumbers(secondNumber: 20, firstNumber: 7);
 
-        // Call method with string
-        int stringResult = mathObj.Calculate("20");
-        Console.WriteLine($"String input '20' - 5 = {stringResult}");
-
-        // Keep console open
+        // Keeps the console window open until a key is pressed
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
     }
