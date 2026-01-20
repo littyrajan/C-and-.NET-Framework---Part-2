@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace PolymorphismAssignment
+{
+    class Program
+    {
+        static void Main()
+        {
+            // Ask the user to enter the first name
+            Console.WriteLine("Enter a first name:");
+            string firstNameInput = Console.ReadLine();
+
+            // Ask the user to enter the last name
+            Console.WriteLine("Enter a last name:");
+            string lastNameInput = Console.ReadLine();
+
+            // Create and initialize an Employee object
+            Employee employee = new Employee
+            {
+                firstName = firstNameInput,
+                lastName = lastNameInput
+            };
+
+            // Call the SayName method implemented in Employee
+            employee.SayName();
+
+            // Demonstrate polymorphism:
+            // Create an IQuittable reference pointing to an Employee object
+            IQuittable quittableEmployee = employee;
+
+            // Call the Quit() method using the interface reference
+            quittableEmployee.Quit();
+
+            // Keep the console window open
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
+    }
+}
