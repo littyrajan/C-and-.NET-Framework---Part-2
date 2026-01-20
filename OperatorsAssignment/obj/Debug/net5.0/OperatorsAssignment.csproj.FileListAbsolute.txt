@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.exe
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.deps.json
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.dll
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\ref\OperatorsAssignment.dll
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.pdb
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.dll
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\ref\OperatorsAssignment.dll
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.pdb
+D:\AOL\TACN22E1\Assignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.genruntimeconfig.cache
