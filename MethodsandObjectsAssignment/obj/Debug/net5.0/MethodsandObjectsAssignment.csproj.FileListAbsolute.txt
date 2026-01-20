@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.exe
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.deps.json
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.dll
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\ref\MethodsandObjectsAssignment.dll
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\bin\Debug\net5.0\MethodsandObjectsAssignment.pdb
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.dll
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\ref\MethodsandObjectsAssignment.dll
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.pdb
+D:\AOL\TACN22E1\Assignment\MethodsandObjectsAssignment\obj\Debug\net5.0\MethodsandObjectsAssignment.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.csprojAssemblyReference.cache
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.AssemblyInfo.cs
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.exe
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.deps.json
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.runtimeconfig.json
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.runtimeconfig.dev.json
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.dll
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\ref\AbstractClassAssignment.dll
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.pdb
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.dll
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\ref\AbstractClassAssignment.dll
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.pdb
+D:\AOL\TACN22E1\Assignment\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.genruntimeconfig.cache
