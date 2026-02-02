@@ -1,0 +1,13 @@
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\bin\Debug\net48\CodeFirstStudentApp.exe.config
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\bin\Debug\net48\CodeFirstStudentApp.exe
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\bin\Debug\net48\CodeFirstStudentApp.pdb
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\bin\Debug\net48\EntityFramework.dll
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.csproj.AssemblyReference.cache
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.AssemblyInfoInputs.cache
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.AssemblyInfo.cs
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.csproj.CoreCompileInputs.cache
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirs.182B5343.Up2Date
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.exe
+D:\AOL\ASP.NET MVC Entity Framework Assignment\Final Assignment Submission\obj\Debug\net48\CodeFirstStudentApp.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w71cS9G5tfk=",
+  "success": true,
+  "projectFilePath": "D:\\AOL\\ASP.NET MVC Entity Framework Assignment\\Final Assignment Submission\\CodeFirstStudentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15194\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
